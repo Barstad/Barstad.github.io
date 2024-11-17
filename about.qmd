@@ -1,4 +1,3 @@
-
 ---
 title: "About Me"
 page-layout: full
@@ -24,8 +23,7 @@ other fun topics in the field of AI and ML.
 
 
 Feel free to reach out if you want to:
+
 - Discuss AI/ML topics
 - Share feedback about my posts
 - Just say hi!
-
-You can email me at [email] or connect with me on [preferred platform].

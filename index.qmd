@@ -1,5 +1,6 @@
 ---
-title: "Barstad.github.io"
+title: "Hi, Welcome! 👋"
 ---
 
-Barstads page
+Welcome to my blog where I write about AI/ML and other fun topics! Check out the [posts](posts.qmd). 
+If you want to know more about me, check out the [about](about.qmd) page.
