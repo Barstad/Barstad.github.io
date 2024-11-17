@@ -1,0 +1,31 @@
+
+---
+title: "About Me"
+page-layout: full
+---
+
+# Hi, I'm Johannes Barstad 👋
+
+I have been doing deep learning professionally since 2017. For the past few years,
+I have been working at oda.com as a machine learning engineer, building the
+personalization platform. I'm very interested in transformers and their applications both
+in language modeling, but also in other domains. I first applied them to problems in personalization
+and recommendations back in 2020, and have worked a lot with them since. 
+
+My goal with this blog is to share my learnings and insights about transformers, deep learning and
+other fun topics in the field of AI and ML.
+
+
+## Connect With Me
+
+- 📫 Email: [johannesbarstad92@gmail.com](mailto:johannesbarstad92@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/johannes-andreas-barstad/)
+- 💻 [GitHub](https://github.com/barstad)
+
+
+Feel free to reach out if you want to:
+- Discuss AI/ML topics
+- Share feedback about my posts
+- Just say hi!
+
+You can email me at [email] or connect with me on [preferred platform].

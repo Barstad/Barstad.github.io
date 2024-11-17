@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs     # GitHub Pages will serve from /docs
+
+website:
+  title: "Barstad.github.io"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Posts
+        href: posts.qmd
+      - text: About
+        href: about.qmd
+    right:
+      - icon: github
+        href: https://github.com/yourusername
+  page-footer:
+    left: "Copyright 2024, Your Name"
+    right: 
+      - icon: github
+      - icon: twitter
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    code-fold: true
+    code-tools: true
+    code-link: true
+    toc: true
+
+execute:
+  freeze: auto

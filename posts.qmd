@@ -1,0 +1,17 @@
+---
+title: "Blog Posts"
+listing:
+  contents: posts/**/*.qmd  # Include all .qmd files in posts directory and subdirectories
+  sort: "date desc"        # Sort by date in descending order
+  type: grid              # Can be "default", "table", or "grid"
+  categories: true        # Add category filters
+  sort-ui: true          # Add a UI element for sorting
+  filter-ui: true        # Add a UI element for filtering
+  image-height: 200px    # Set a consistent image height for grid view
+  page-size: 9           # Number of items per page
+  fields: [image, date, title, author, reading-time, description, categories]
+page-layout: full
+title-block-banner: true
+---
+
+Welcome to my blog, where I write about things I find interesting.
